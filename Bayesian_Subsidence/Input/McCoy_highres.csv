@@ -15,8 +15,9 @@ Dunderberg Shale,0.185,Shale
 Raiff Limestone,0.61,Limestone
 Monte Neva Formation,0.165,Limestone
 Eldorado Limestone,0.61,Dolostone
-Pioche Shale,0.095,Shale
-Prospect Mountain Quartzite,1.5,Sandstone
+Pioche Shale,0.09,Shale
+Prospect Mountain Quartzite,1.3,Sandstone
+Stella Lake Quartzite,0.2,Sandstone
 Osceola,0.17,Shale
 Shingle Creek,0.2,Sandstone
 Strawberry Creek,0.3,Sandstone
@@ -28,8 +29,9 @@ Salvi,0.3,Sandstone
 Heusser Mountain+Debrah Mb,0.8,Shale
 Yelland,0.16,Limestone
 Yelland Cap,0.01,Dolostone
-Taft,0.1,Diamictite
-Trout Creek 7,1.3,Sandstone
+TC7_Diamictite,0.1,Sandstone
+TopTC7,0.4,Sandstone
+Trout Creek 7,0.9,Sandstone
 Trout Creek 6,1.2,Sandstone
 Trout Creek 5,0.34,Diamictite
 Trout Creek 4b,0.07,Sandstone
